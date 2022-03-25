@@ -1,10 +1,15 @@
 # Informal Introduction to myself
 
-1. Myself in a nutshell
+## Myself in a nutshell
 
-- on the internet, friends used to see me as:
+- On the internet, friends used to see me as:
   ![penguin](https://github.com/gtb-2022-wang-wanzhi/.github/blob/main/profile/img/1.jpg)
-  btw, it's a chinstrap penguin on this picture :D
-- as for me in the real life, let's keep it as a secret
+  
+  FYI, in this picture, it's called a chinstrap penguin!
+- As for me in the real life, let's keep it a secret for now. One day you can see me in person :D
 
-2. My interests
+## My interests
+- Firstly, I enjoy most kinds of movies, except for romantic movies. Horror and action ones are preferable.
+- Also, I watch football games. Consequently, you may find me awake at 4 am sometimes.
+- Give me a chance to show off players that I like!
+  
