@@ -1,8 +1,8 @@
-# Informal Introduction to myself
+# an Informal Introduction
 
 ## Myself in a nutshell
 
-- On the internet, friends used to see me as:
+- On the internet, friends are used to see me as:
   ![penguin](https://github.com/gtb-2022-wang-wanzhi/.github/blob/main/profile/img/1.jpg)
   
   FYI, in this picture, it's called a chinstrap penguin!
@@ -10,7 +10,8 @@
 
 ## My interests
 - Firstly, I enjoy most kinds of movies, except for romantic movies.   
-  Horror and action ones are preferable.  
+  
+  **Horror and action ones are preferable!**
 
 - Also, I watch football games. Consequently, you may find me awake at 4 am sometimes.
   
@@ -18,5 +19,9 @@
   ![modric](https://github.com/gtb-2022-wang-wanzhi/.github/blob/main/profile/img/2.jpg)
     
   ![croatia](https://github.com/gtb-2022-wang-wanzhi/.github/blob/main/profile/img/3.jpg)
+  
   **We Croatian national team is now heading to the 2022 world cup~**
+
+- Finally, if you love listening to KPOP/Vocaloid, let's go karaoke together!
+  
   
